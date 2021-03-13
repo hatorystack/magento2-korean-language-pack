@@ -1,0 +1,25 @@
+{
+    "name": "helperyoo/magento-2-korean-language-pack",
+    "description": "Korean language",
+    "require": {
+        "magento/framework": "*"
+    },
+    "type": "magento2-language",
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    },
+    "version": "0.0.1",
+    "authors": [
+        {
+          "name": "Helper Yoo",
+          "email": "helper@purding.com",
+          "homepage": "https://www.purding.com",
+          "role": "Leader"
+        }
+      ],
+}

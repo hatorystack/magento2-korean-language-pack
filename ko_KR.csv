@@ -1298,12 +1298,12 @@ Promo,Promo,module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","You disabled %1 Catalog Price Rules based on ""%2"" attribute.",module,Magento_CatalogRule
 Home,Home,module,Magento_CatalogSearch
 "Go to Home Page","Go to Home Page",module,Magento_CatalogSearch
-"Catalog Advanced Search","Catalog Advanced Search",module,Magento_CatalogSearch
+"Catalog Advanced Search","카탈로그 상세검색",module,Magento_CatalogSearch
 All,All,module,Magento_CatalogSearch
 Yes,Yes,module,Magento_CatalogSearch
 No,No,module,Magento_CatalogSearch
 Results,Results,module,Magento_CatalogSearch
-"Advanced Search Results","Advanced Search Results",module,Magento_CatalogSearch
+"Advanced Search Results","상세검색 결과",module,Magento_CatalogSearch
 Grid,Grid,module,Magento_CatalogSearch
 List,List,module,Magento_CatalogSearch
 "Search Weight","Search Weight",module,Magento_CatalogSearch
@@ -1326,7 +1326,7 @@ Product,Product,module,Magento_CatalogSearch
 "Search Settings","Search Settings",module,Magento_CatalogSearch
 Search,Search,module,Magento_CatalogSearch
 "Please enter a valid price range.","Please enter a valid price range.",module,Magento_CatalogSearch
-"Advanced Search","Advanced Search",module,Magento_CatalogSearch
+"Advanced Search","상세검색",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>%1 item</strong> were found using the following search criteria",module,Magento_CatalogSearch
 "<strong>%1 items</strong> were found using the following search criteria","<strong>%1 items</strong> were found using the following search criteria",module,Magento_CatalogSearch
 "We can't find any items matching these search criteria.","We can't find any items matching these search criteria.",module,Magento_CatalogSearch
@@ -1405,7 +1405,7 @@ Scope,Scope,module,Magento_Catalog
 "The default date is invalid.","The default date is invalid.",module,Magento_Catalog
 "Storefront Properties","Storefront Properties",module,Magento_Catalog
 "Use in Search","Use in Search",module,Magento_Catalog
-"Visible in Advanced Search","Visible in Advanced Search",module,Magento_Catalog
+"Visible in Advanced Search","상세검색에 표시",module,Magento_Catalog
 "Comparable on Storefront","Comparable on Storefront",module,Magento_Catalog
 "Use for Promo Rule Conditions","Use for Promo Rule Conditions",module,Magento_Catalog
 "Allow HTML Tags on Storefront","Allow HTML Tags on Storefront",module,Magento_Catalog
@@ -2240,7 +2240,7 @@ Pages,Pages,module,Magento_Cms
 "We can't delete root directory %1 right now.","We can't delete root directory %1 right now.",module,Magento_Cms
 "Temporarily allowed to save HTML value that contains restricted elements. %1","Temporarily allowed to save HTML value that contains restricted elements. %1",module,Magento_Cms
 "Invalid HTML provided","Invalid HTML provided",module,Magento_Cms
-"Privacy and Cookie Policy","Privacy and Cookie Policy",module,Magento_Cms
+"Privacy and Cookie Policy","개인 정보 및 쿠키 정책",module,Magento_Cms
 NoSuchEntityException,NoSuchEntityException,module,Magento_Cms
 "Error message","Error message",module,Magento_Cms
 LocalizedException,LocalizedException,module,Magento_Cms
@@ -4607,8 +4607,8 @@ Paused,Paused,module,Magento_Newsletter
 " Copy"," Copy",module,Magento_Newsletter
 "Are you sure you want to delete this template?","Are you sure you want to delete this template?",module,Magento_Newsletter
 "Sign Up for Our Newsletter:","Sign Up for Our Newsletter:",module,Magento_Newsletter
-"Enter your email address","Enter your email address",module,Magento_Newsletter
-Subscribe,Subscribe,module,Magento_Newsletter
+"Enter your email address","이메일 주소를 입력하세요.",module,Magento_Newsletter
+Subscribe,구독 신청,module,Magento_Newsletter
 "Purchase order number is a required field.","Purchase order number is a required field.",module,Magento_OfflinePayments
 "Make Check payable to:","Make Check payable to:",module,Magento_OfflinePayments
 "Send Check to:","Send Check to:",module,Magento_OfflinePayments
@@ -6025,8 +6025,8 @@ Reorder,Reorder,module,Magento_Sales
 "Comments History","Comments History",module,Magento_Sales
 "Order History","Order History",module,Magento_Sales
 Information,Information,module,Magento_Sales
-"Order Information","Order Information",module,Magento_Sales
-"Order Invoices","Order Invoices",module,Magento_Sales
+"Order Information","주문 정보",module,Magento_Sales
+"Order Invoices","주문 인보이스",module,Magento_Sales
 Shipments,Shipments,module,Magento_Sales
 "Order Shipments","Order Shipments",module,Magento_Sales
 Transactions,Transactions,module,Magento_Sales
@@ -6156,7 +6156,7 @@ Sales,Sales,module,Magento_Sales
 "Please correct the transaction ID and try again.","Please correct the transaction ID and try again.",module,Magento_Sales
 "The transaction details have been updated.","The transaction details have been updated.",module,Magento_Sales
 "We can't update the transaction details.","We can't update the transaction details.",module,Magento_Sales
-"Orders and Returns","Orders and Returns",module,Magento_Sales
+"Orders and Returns","주문 및 반품",module,Magento_Sales
 Home,Home,module,Magento_Sales
 "Go to Home Page","Go to Home Page",module,Magento_Sales
 "You entered incorrect data. Please try again.","You entered incorrect data. Please try again.",module,Magento_Sales
@@ -6548,7 +6548,7 @@ Search,Search,module,Magento_Sales
 "Search Term","Search Term",module,Magento_Search
 Results,Results,module,Magento_Search
 Uses,Uses,module,Magento_Search
-"Search Terms","Search Terms",module,Magento_Search
+"Search Terms","검색 키워드",module,Magento_Search
 "Search Synonyms","Search Synonyms",module,Magento_Search
 "New Synonym Group","New Synonym Group",module,Magento_Search
 Back,Back,module,Magento_Search
@@ -6611,7 +6611,7 @@ View/Edit,View/Edit,module,Magento_Search
 "All Websites","All Websites",module,Magento_Search
 "    All Store Views","    All Store Views",module,Magento_Search
 "All Store Views","All Store Views",module,Magento_Search
-"Search entire store here...","Search entire store here...",module,Magento_Search
+"Search entire store here...","",module,Magento_Search
 "There are no search terms available.","There are no search terms available.",module,Magento_Search
 "Account Activity","Account Activity",module,Magento_Security
 "All other open sessions for this account were terminated.","All other open sessions for this account were terminated.",module,Magento_Security
@@ -6826,7 +6826,7 @@ SKU,SKU,module,Magento_Shipping
 Carrier:,Carrier:,module,Magento_Shipping
 Error:,Error:,module,Magento_Shipping
 "Tracking information is currently not available. Please ","Tracking information is currently not available. Please ",module,Magento_Shipping
-"contact us","contact us",module,Magento_Shipping
+"contact us","문의",module,Magento_Shipping
 " for more information or "," for more information or ",module,Magento_Shipping
 "email us at ","email us at ",module,Magento_Shipping
 Info:,Info:,module,Magento_Shipping
@@ -10449,7 +10449,7 @@ Comparable,Comparable,module,Magento_ConfigurableProduct
 "As low as: ","As low as: ",module,Magento_ConfigurableProduct
 "Contacts Section","Contacts Section",module,Magento_Contact
 Contacts,Contacts,module,Magento_Contact
-"Contact Us","Contact Us",module,Magento_Contact
+"Contact Us","문의",module,Magento_Contact
 "Enable Contact Us","Enable Contact Us",module,Magento_Contact
 "Email Options","Email Options",module,Magento_Contact
 "Send Emails To","Send Emails To",module,Magento_Contact
@@ -11150,7 +11150,7 @@ Subscriber,Subscriber,module,Magento_Newsletter
 Status,Status,module,Magento_Newsletter
 Processed,Processed,module,Magento_Newsletter
 Recipients,Recipients,module,Magento_Newsletter
-Unsubscribe,Unsubscribe,module,Magento_Newsletter
+Unsubscribe,구독 취소,module,Magento_Newsletter
 Delete,Delete,module,Magento_Newsletter
 "Are you sure you want to delete the selected subscriber(s)?","Are you sure you want to delete the selected subscriber(s)?",module,Magento_Newsletter
 CSV,CSV,module,Magento_Newsletter
@@ -11622,7 +11622,7 @@ Inline,Inline,module,Magento_ReCaptchaVersion3Invisible
 Marketing,Marketing,module,Magento_Reports
 "Products in Cart","Products in Cart",module,Magento_Reports
 "Abandoned Cart","Abandoned Cart",module,Magento_Reports
-"Search Terms","Search Terms",module,Magento_Reports
+"Search Terms","검색 키워드",module,Magento_Reports
 "By Customers","By Customers",module,Magento_Reports
 "By Products","By Products",module,Magento_Reports
 Refunds,Refunds,module,Magento_Reports
@@ -12258,7 +12258,7 @@ Code,Code,module,Magento_Variable
 "Display Prices In Emails","Display Prices In Emails",module,Magento_Weee
 "Apply Tax To FPT","Apply Tax To FPT",module,Magento_Weee
 "Include FPT In Subtotal","Include FPT In Subtotal",module,Magento_Weee
-"Orders and Returns","Orders and Returns",module,Magento_Widget
+"Orders and Returns","주문 및 반품",module,Magento_Widget
 "Orders and Returns Search Form","Orders and Returns Search Form",module,Magento_Widget
 "Anchor Custom Title","Anchor Custom Title",module,Magento_Widget
 "CMS Page Link Block Template","CMS Page Link Block Template",module,Magento_Widget

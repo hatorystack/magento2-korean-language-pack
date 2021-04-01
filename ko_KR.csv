@@ -86,8 +86,8 @@ or,or,module,Amazon_Payment
 "Could not save Amazon customer link: %1","Could not save Amazon customer link: %1",module,Amazon_Login
 "Welcome back!","Welcome back!",module,Amazon_Login
 "A shop account for this email address already exists. Please enter your shop accounts password to log in without leaving the shop.","A shop account for this email address already exists. Please enter your shop accounts password to log in without leaving the shop.",module,Amazon_Login
-"* Required Fields","* Required Fields",module,Amazon_Login
-Password,Password,module,Amazon_Login
+"* Required Fields","* 필수 입력 항목",module,Amazon_Login
+Password,비밀번호,module,Amazon_Login
 Ok,Ok,module,Amazon_Login
 "Continue as Guest","Continue as Guest",module,Amazon_Login
 "Forgot Your Password?","비밀번호 찾기",module,Amazon_Login
@@ -883,8 +883,8 @@ Edit,Edit,module,Magento_Backend
 "Welcome, please sign in","Welcome, please sign in",module,Magento_Backend
 Username,Username,module,Magento_Backend
 "user name","user name",module,Magento_Backend
-Password,Password,module,Magento_Backend
-password,password,module,Magento_Backend
+Password,비밀번호,module,Magento_Backend
+password,비밀번호,module,Magento_Backend
 "Sign in","로그인",module,Magento_Backend
 "No Data Found","No Data Found",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.",module,Magento_Backend
@@ -1103,7 +1103,7 @@ To,To,module,Magento_Bundle
 "Buy %1 with %2 discount each","Buy %1 with %2 discount each",module,Magento_Bundle
 "Go back to product details","Go back to product details",module,Magento_Bundle
 "Customize and Add to Cart","Customize and Add to Cart",module,Magento_Bundle
-"* Required Fields","* Required Fields",module,Magento_Bundle
+"* Required Fields","* 필수 입력 항목",module,Magento_Bundle
 "Your Customization","Your Customization",module,Magento_Bundle
 Availability,Availability,module,Magento_Bundle
 "In stock","In stock",module,Magento_Bundle
@@ -1990,7 +1990,7 @@ Show,Show,module,Magento_Catalog
 "View as","View as",module,Magento_Catalog
 "More Information","More Information",module,Magento_Catalog
 "Maximum %1 characters","Maximum %1 characters",module,Magento_Catalog
-"* Required Fields","* Required Fields",module,Magento_Catalog
+"* Required Fields","* 필수 입력 항목",module,Magento_Catalog
 Availability,Availability,module,Magento_Catalog
 "Terms and Conditions","Terms and Conditions",module,Magento_CheckoutAgreements
 "Add New Condition","Add New Condition",module,Magento_CheckoutAgreements
@@ -2507,7 +2507,7 @@ save,save,module,Magento_ConfigurableProduct
 "Enter the Name and try again.","Enter the Name and try again.",module,Magento_Contact
 "Enter the comment and try again.","Enter the comment and try again.",module,Magento_Contact
 "The email address is invalid. Verify the email address and try again.","The email address is invalid. Verify the email address and try again.",module,Magento_Contact
-"* Required Fields","* Required Fields",module,Magento_Contact
+"* Required Fields","* 필수 입력 항목",module,Magento_Contact
 "Write Us","Write Us",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
 Name,Name,module,Magento_Contact
@@ -2955,7 +2955,7 @@ or,or,module,Magento_Customer
 "You have no default billing address in your address book.","You have no default billing address in your address book.",module,Magento_Customer
 "Change Shipping Address","Change Shipping Address",module,Magento_Customer
 "You have no default shipping address in your address book.","You have no default shipping address in your address book.",module,Magento_Customer
-"* Required Fields","* Required Fields",module,Magento_Customer
+"* Required Fields","* 필수 입력 항목",module,Magento_Customer
 Address,Address,module,Magento_Customer
 "Street Address: Line %1","Street Address: Line %1",module,Magento_Customer
 "Street Address %1","Street Address %1",module,Magento_Customer
@@ -2990,9 +2990,9 @@ Email,이메일,module,Magento_Customer
 "Confirm New Password","Confirm New Password",module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link.",module,Magento_Customer
 "Reset My Password","Reset My Password",module,Magento_Customer
-"Registered Customers","Registered Customers",module,Magento_Customer
-"If you have an account, sign in with your email address.","If you have an account, sign in with your email address.",module,Magento_Customer
-Password,Password,module,Magento_Customer
+"Registered Customers","가입된 회원",module,Magento_Customer
+"If you have an account, sign in with your email address.","계정 이메일 주소로 로그인하세요.",module,Magento_Customer
+Password,비밀번호,module,Magento_Customer
 "Forgot Your Password?","비밀번호 찾기",module,Magento_Customer
 "Subscription option","Subscription option",module,Magento_Customer
 "General Subscription","General Subscription",module,Magento_Customer
@@ -3007,8 +3007,8 @@ Password,Password,module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.",module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.",module,Magento_Customer
-"New Customers","New Customers",module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Creating an account has many benefits: check out faster, keep more than one address, track orders and more.",module,Magento_Customer
+"New Customers","신규 회원",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","회원으로 가입하면 더욱 빠른 결제가 가능하고 여러 주소 관리와 주문한 오더를 추적 등 회원 서비스를 이용할 수 있습니다.",module,Magento_Customer
 Company,Company,module,Magento_Customer
 Fax,Fax,module,Magento_Customer
 Name,Name,module,Magento_Customer
@@ -5667,7 +5667,7 @@ Back,Back,module,Magento_Review
 "Ratings Review Summary","Ratings Review Summary",module,Magento_Review
 "Be the first to review this product","Be the first to review this product",module,Magento_Review
 "Write Your Own Review","Write Your Own Review",module,Magento_Review
-"* Required Fields","* Required Fields",module,Magento_Review
+"* Required Fields","* 필수 입력 항목",module,Magento_Review
 "You're reviewing:","You're reviewing:",module,Magento_Review
 "Your Rating","Your Rating",module,Magento_Review
 "%1 %2","%1 %2",module,Magento_Review
@@ -6671,7 +6671,7 @@ None,None,module,Magento_Security
 Remove,Remove,module,Magento_SendFriend
 Name,Name,module,Magento_SendFriend
 Email,이메일,module,Magento_SendFriend
-"* Required Fields","* Required Fields",module,Magento_SendFriend
+"* Required Fields","* 필수 입력 항목",module,Magento_SendFriend
 Sender,Sender,module,Magento_SendFriend
 Message,Message,module,Magento_SendFriend
 Invitee,Invitee,module,Magento_SendFriend
@@ -7506,7 +7506,7 @@ Users,Users,module,Magento_User
 "New User","New User",module,Magento_User
 "Account Information","Account Information",module,Magento_User
 "User Email","User Email",module,Magento_User
-Password,Password,module,Magento_User
+Password,비밀번호,module,Magento_User
 "New Password","New Password",module,Magento_User
 "Password Confirmation","Password Confirmation",module,Magento_User
 "Interface Locale","Interface Locale",module,Magento_User
@@ -7942,7 +7942,7 @@ Edit,Edit,module,Magento_Wishlist
 Product,Product,module,Magento_Wishlist
 Back,Back,module,Magento_Wishlist
 "Wish List is empty now.","Wish List is empty now.",module,Magento_Wishlist
-"* Required Fields","* Required Fields",module,Magento_Wishlist
+"* Required Fields","* 필수 입력 항목",module,Magento_Wishlist
 "Sharing Information","Sharing Information",module,Magento_Wishlist
 "Email addresses, separated by commas","Email addresses, separated by commas",module,Magento_Wishlist
 "Check here to link an RSS feed to your Wish List.","Check here to link an RSS feed to your Wish List.",module,Magento_Wishlist
@@ -8202,7 +8202,7 @@ Unmapped,Unmapped,module,Vertex_Tax
 Next,Next,module,Amazon_Payment
 "Email Address","Email Address",module,Amazon_Payment
 "You can create an account after checkout.","You can create an account after checkout.",module,Amazon_Payment
-Password,Password,module,Amazon_Payment
+Password,비밀번호,module,Amazon_Payment
 "You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Amazon_Payment
 Login,Login,module,Amazon_Payment
 "Forgot Your Password?","비밀번호 찾기",module,Amazon_Payment
@@ -8251,7 +8251,7 @@ Total:,Total:,module,Magento_Checkout
 "Date & Time:","Date & Time:",module,Magento_Checkout
 "Sign In","로그인",module,Magento_Checkout
 "Email Address","Email Address",module,Magento_Checkout
-Password,Password,module,Magento_Checkout
+Password,비밀번호,module,Magento_Checkout
 "Forgot Your Password?","비밀번호 찾기",module,Magento_Checkout
 "My billing and shipping address are the same","My billing and shipping address are the same",module,Magento_Checkout
 Update,Update,module,Magento_Checkout
@@ -8351,7 +8351,7 @@ Shipping,Shipping,module,Magento_InventoryInStorePickupFrontend
 "Email Address","Email Address",module,Magento_InventoryInStorePickupFrontend
 "Forgot Your Password?","비밀번호 찾기",module,Magento_InventoryInStorePickupFrontend
 "You can create an account after checkout.","You can create an account after checkout.",module,Magento_InventoryInStorePickupFrontend
-Password,Password,module,Magento_InventoryInStorePickupFrontend
+Password,비밀번호,module,Magento_InventoryInStorePickupFrontend
 "You already have an account with us. Sign in or continue as guest.","You already have an account with us. Sign in or continue as guest.",module,Magento_InventoryInStorePickupFrontend
 Login,Login,module,Magento_InventoryInStorePickupFrontend
 "Ship To:","Ship To:",module,Magento_InventoryInStorePickupFrontend
@@ -9389,7 +9389,7 @@ Products,Products,module,Dotdigitalgroup_Email
 "Send Mode","Send Mode",module,Dotdigitalgroup_Email
 Host,Host,module,Dotdigitalgroup_Email
 Username,Username,module,Dotdigitalgroup_Email
-Password,Password,module,Dotdigitalgroup_Email
+Password,비밀번호,module,Dotdigitalgroup_Email
 Port,Port,module,Dotdigitalgroup_Email
 Debug,Debug,module,Dotdigitalgroup_Email
 "Email Templates","Email Templates",module,Dotdigitalgroup_Email
@@ -10614,7 +10614,7 @@ Addresses,Addresses,module,Magento_Customer
 "Enabled for Checkout","Enabled for Checkout",module,Magento_Dhl
 Title,Title,module,Magento_Dhl
 "Access ID","Access ID",module,Magento_Dhl
-Password,Password,module,Magento_Dhl
+Password,비밀번호,module,Magento_Dhl
 "Account Number","Account Number",module,Magento_Dhl
 "Content Type (Non Domestic)","Content Type (Non Domestic)",module,Magento_Dhl
 "Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)","Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic)",module,Magento_Dhl
@@ -10741,7 +10741,7 @@ Title,Title,module,Magento_Fedex
 "Please make sure to use only digits here. No dashes are allowed.","Please make sure to use only digits here. No dashes are allowed.",module,Magento_Fedex
 "Meter Number","Meter Number",module,Magento_Fedex
 Key,Key,module,Magento_Fedex
-Password,Password,module,Magento_Fedex
+Password,비밀번호,module,Magento_Fedex
 "Sandbox Mode","Sandbox Mode",module,Magento_Fedex
 "Web-Services URL (Production)","Web-Services URL (Production)",module,Magento_Fedex
 "Web-Services URL (Sandbox)","Web-Services URL (Sandbox)",module,Magento_Fedex
@@ -11354,7 +11354,7 @@ Enabled,Enabled,module,Magento_Paypal
 "Settlement Report Settings","Settlement Report Settings",module,Magento_Paypal
 "SFTP Credentials","SFTP Credentials",module,Magento_Paypal
 Login,Login,module,Magento_Paypal
-Password,Password,module,Magento_Paypal
+Password,비밀번호,module,Magento_Paypal
 "Custom Endpoint Hostname or IP-Address","Custom Endpoint Hostname or IP-Address",module,Magento_Paypal
 "By default it is ""reports.paypal.com"".","By default it is ""reports.paypal.com"".",module,Magento_Paypal
 "Use colon to specify port. For example: ""test.example.com:5224"".","Use colon to specify port. For example: ""test.example.com:5224"".",module,Magento_Paypal
@@ -12164,7 +12164,7 @@ Container,Container,module,Magento_Ups
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)",module,Magento_Ups
 "Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)","Minimum Package Weight (Please consult your shipping carrier for minimum supported shipping weight)",module,Magento_Ups
 "Origin of the Shipment","Origin of the Shipment",module,Magento_Ups
-Password,Password,module,Magento_Ups
+Password,비밀번호,module,Magento_Ups
 "Pickup Method","Pickup Method",module,Magento_Ups
 "Sort Order","Sort Order",module,Magento_Ups
 Title,Title,module,Magento_Ups
@@ -12208,7 +12208,7 @@ USPS,USPS,module,Magento_Usps
 "Secure Gateway URL","Secure Gateway URL",module,Magento_Usps
 Title,Title,module,Magento_Usps
 "User ID","User ID",module,Magento_Usps
-Password,Password,module,Magento_Usps
+Password,비밀번호,module,Magento_Usps
 Mode,Mode,module,Magento_Usps
 "Packages Request Type","Packages Request Type",module,Magento_Usps
 Container,Container,module,Magento_Usps

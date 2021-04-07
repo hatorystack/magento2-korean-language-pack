@@ -2985,8 +2985,8 @@ Email,이메일,module,Magento_Customer
 "Change Email and Password","Change Email and Password",module,Magento_Customer
 "Current Password","Current Password",module,Magento_Customer
 "New Password","New Password",module,Magento_Customer
-"Password Strength","Password Strength",module,Magento_Customer
-"No Password","No Password",module,Magento_Customer
+"Password Strength","비밀번호 보안 강도",module,Magento_Customer
+"No Password","비밀번호가 입력되지 않았습니다.",module,Magento_Customer
 "Confirm New Password","Confirm New Password",module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link.",module,Magento_Customer
 "Reset My Password","Reset My Password",module,Magento_Customer
@@ -3000,7 +3000,7 @@ Password,비밀번호,module,Magento_Customer
 "Address Information","Address Information",module,Magento_Customer
 "Please select a region, state or province.","Please select a region, state or province.",module,Magento_Customer
 "Sign-in Information","로그인 정보를 입력해 주세요",module,Magento_Customer
-"Confirm Password","Confirm Password",module,Magento_Customer
+"Confirm Password","비밀번호 확인",module,Magento_Customer
 "Create an Account","회원가입",module,Magento_Customer
 "Set a New Password","Set a New Password",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","You have signed out and will go to our homepage in 5 seconds.",module,Magento_Customer
@@ -7485,8 +7485,8 @@ Roles,Roles,module,Magento_User
 "Role Users","Role Users",module,Magento_User
 "User ID","User ID",module,Magento_User
 "User Name","User Name",module,Magento_User
-"First Name","First Name",module,Magento_User
-"Last Name","Last Name",module,Magento_User
+"First Name","이름",module,Magento_User
+"Last Name","성",module,Magento_User
 Email,이메일,module,Magento_User
 Status,Status,module,Magento_User
 Active,Active,module,Magento_User
@@ -11003,7 +11003,7 @@ SKU,SKU,module,Magento_InventoryShippingAdminUi
                             If set to ""Manual Selection"", the ""Login as Customer"" admin can select a Store after logging in.",module,Magento_LoginAsCustomerAdminUi
 "Title for Login as Customer opt-in checkbox","Title for Login as Customer opt-in checkbox",module,Magento_LoginAsCustomerAssistance
 "Login as Customer checkbox tooltip","Login as Customer checkbox tooltip",module,Magento_LoginAsCustomerAssistance
-"Allow remote shopping assistance","Allow remote shopping assistance",module,Magento_LoginAsCustomerAssistance
+"Allow remote shopping assistance","원격 쇼핑 지원 허용",module,Magento_LoginAsCustomerAssistance
 "You are logged in.","You are logged in.",module,Magento_LoginAsCustomerFrontendUi
 ID,ID,module,Magento_LoginAsCustomerLog
 "Customer ID","Customer ID",module,Magento_LoginAsCustomerLog

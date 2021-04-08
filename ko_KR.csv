@@ -686,11 +686,11 @@ Shipping,Shipping,module,Magento_Backend
 "All Store Views","All Store Views",module,Magento_Backend
 "What is this?","What is this?",module,Magento_Backend
 "Save Account","Save Account",module,Magento_Backend
-"My Account","My Account",module,Magento_Backend
-"Account Information","Account Information",module,Magento_Backend
+"My Account","내 계정",module,Magento_Backend
+"Account Information","계정 정보",module,Magento_Backend
 "User Name","User Name",module,Magento_Backend
-"First Name","First Name",module,Magento_Backend
-"Last Name","Last Name",module,Magento_Backend
+"First Name","이름",module,Magento_Backend
+"Last Name","성",module,Magento_Backend
 Email,이메일,module,Magento_Backend
 "User Email","User Email",module,Magento_Backend
 "New Password","New Password",module,Magento_Backend
@@ -1469,8 +1469,8 @@ Websites,Websites,module,Magento_Catalog
 "Price Alert Subscriptions","Price Alert Subscriptions",module,Magento_Catalog
 "Stock Alert Subscriptions","Stock Alert Subscriptions",module,Magento_Catalog
 "There are no customers for this alert.","There are no customers for this alert.",module,Magento_Catalog
-"First Name","First Name",module,Magento_Catalog
-"Last Name","Last Name",module,Magento_Catalog
+"First Name","이름",module,Magento_Catalog
+"Last Name","성",module,Magento_Catalog
 Email,이메일,module,Magento_Catalog
 "Subscribe Date","Subscribe Date",module,Magento_Catalog
 "Last Notified","Last Notified",module,Magento_Catalog
@@ -2718,7 +2718,7 @@ Today,Today,module,Magento_Customer
 "There was an error confirming the account","There was an error confirming the account",module,Magento_Customer
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
 "If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please click <a href=""%1"">here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
-"Thank you for registering with %1.","Thank you for registering with %1.",module,Magento_Customer
+"Thank you for registering with %1.","%1에 가입해 주셔서 감사합니다.",module,Magento_Customer
 "Please check your email for confirmation key.","Please check your email for confirmation key.",module,Magento_Customer
 "This email does not require confirmation.","This email does not require confirmation.",module,Magento_Customer
 "Wrong email.","Wrong email.",module,Magento_Customer
@@ -2728,7 +2728,7 @@ Today,Today,module,Magento_Customer
 "Please make sure your passwords match.","Please make sure your passwords match.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.",module,Magento_Customer
-"Account Information","Account Information",module,Magento_Customer
+"Account Information","계정 정보",module,Magento_Customer
 "You saved the account information.","You saved the account information.",module,Magento_Customer
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Customer
 "Password confirmation doesn't match entered password.","Password confirmation doesn't match entered password.",module,Magento_Customer
@@ -2807,7 +2807,7 @@ Customers,Customers,module,Magento_Customer
 "Please enter a password with at most %1 characters.","Please enter a password with at most %1 characters.",module,Magento_Customer
 "The password needs at least %1 characters. Create a new password and try again.","The password needs at least %1 characters. Create a new password and try again.",module,Magento_Customer
 "The password can't begin or end with a space. Verify the password and try again.","The password can't begin or end with a space. Verify the password and try again.",module,Magento_Customer
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","비밀번호는 소문자, 대문자, 숫자, 특수문자 중 최소 %1개의 조합으로 사용해야 합니다.",module,Magento_Customer
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",module,Magento_Customer
 "This customer already exists in this store.","This customer already exists in this store.",module,Magento_Customer
 "A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_Customer
@@ -2949,7 +2949,7 @@ Change,Change,module,Magento_Customer
 Newsletters,Newsletters,module,Magento_Customer
 "You are subscribed to ""General Subscription"".","You are subscribed to ""General Subscription"".",module,Magento_Customer
 or,or,module,Magento_Customer
-"My Account","My Account",module,Magento_Customer
+"My Account","내 계정",module,Magento_Customer
 "Default Addresses","Default Addresses",module,Magento_Customer
 "Change Billing Address","Change Billing Address",module,Magento_Customer
 "You have no default billing address in your address book.","You have no default billing address in your address book.",module,Magento_Customer
@@ -2968,8 +2968,8 @@ City,City,module,Magento_Customer
 "Go back","Go back",module,Magento_Customer
 "Additional Address Entries","Additional Address Entries",module,Magento_Customer
 "Additional addresses","Additional addresses",module,Magento_Customer
-"First Name","First Name",module,Magento_Customer
-"Last Name","Last Name",module,Magento_Customer
+"First Name","이름",module,Magento_Customer
+"Last Name","성",module,Magento_Customer
 "Street Address","Street Address",module,Magento_Customer
 Country,Country,module,Magento_Customer
 State,State,module,Magento_Customer
@@ -4719,8 +4719,8 @@ Visa,Visa,module,Magento_Payment
 "Billing Agreements","Billing Agreements",module,Magento_Paypal
 ID,ID,module,Magento_Paypal
 Email,이메일,module,Magento_Paypal
-"First Name","First Name",module,Magento_Paypal
-"Last Name","Last Name",module,Magento_Paypal
+"First Name","이름",module,Magento_Paypal
+"Last Name","성",module,Magento_Paypal
 "Reference ID","Reference ID",module,Magento_Paypal
 Status,Status,module,Magento_Paypal
 Created,Created,module,Magento_Paypal
@@ -5462,8 +5462,8 @@ Updated,Updated,module,Magento_Reports
 "IP Address","IP Address",module,Magento_Reports
 Customers,Customers,module,Magento_Reports
 ID,ID,module,Magento_Reports
-"First Name","First Name",module,Magento_Reports
-"Last Name","Last Name",module,Magento_Reports
+"First Name","이름",module,Magento_Reports
+"Last Name","성",module,Magento_Reports
 "Items in Cart","Items in Cart",module,Magento_Reports
 "Products in carts","Products in carts",module,Magento_Reports
 Carts,Carts,module,Magento_Reports
@@ -5894,7 +5894,7 @@ Cancel,Cancel,module,Magento_Sales
 Coupons,Coupons,module,Magento_Sales
 "Please select a customer","Please select a customer",module,Magento_Sales
 "Create New Customer","Create New Customer",module,Magento_Sales
-"Account Information","Account Information",module,Magento_Sales
+"Account Information","계정 정보",module,Magento_Sales
 From,From,module,Magento_Sales
 To,To,module,Magento_Sales
 Message,Message,module,Magento_Sales
@@ -6334,8 +6334,8 @@ City,City,module,Magento_Sales
 Company,Company,module,Magento_Sales
 Country,Country,module,Magento_Sales
 Email,이메일,module,Magento_Sales
-"First Name","First Name",module,Magento_Sales
-"Last Name","Last Name",module,Magento_Sales
+"First Name","이름",module,Magento_Sales
+"Last Name","성",module,Magento_Sales
 State/Province,State/Province,module,Magento_Sales
 "Street Address","Street Address",module,Magento_Sales
 "Phone Number","Phone Number",module,Magento_Sales
@@ -7504,7 +7504,7 @@ Users,Users,module,Magento_User
 "Force Sign-In","Force Sign-In",module,Magento_User
 "Edit User '%1'","Edit User '%1'",module,Magento_User
 "New User","New User",module,Magento_User
-"Account Information","Account Information",module,Magento_User
+"Account Information","계정 정보",module,Magento_User
 "User Email","User Email",module,Magento_User
 Password,비밀번호,module,Magento_User
 "New Password","New Password",module,Magento_User
@@ -8100,8 +8100,8 @@ Jurisdiction,Jurisdiction,module,Vertex_Tax
 "Order Status Is Changed","Order Status Is Changed",module,Vertex_Tax
 ". ' Field #%1'",". ' Field #%1'",module,Vertex_Tax
 "Provided class name %1 was not located","Provided class name %1 was not located",module,Vertex_Tax
-"First Name","First Name",module,Vertex_Tax
-"Last Name","Last Name",module,Vertex_Tax
+"First Name","이름",module,Vertex_Tax
+"Last Name","성",module,Vertex_Tax
 "Middle Name","Middle Name",module,Vertex_Tax
 Email,이메일,module,Vertex_Tax
 Customer,Customer,module,Vertex_Tax
@@ -8593,8 +8593,8 @@ Months,Months,module,PayPal_Braintree
 "Account Number","Account Number",module,PayPal_Braintree
 "Account Type","Account Type",module,PayPal_Braintree
 "Ownership Type","Ownership Type",module,PayPal_Braintree
-"First Name","First Name",module,PayPal_Braintree
-"Last Name","Last Name",module,PayPal_Braintree
+"First Name","이름",module,PayPal_Braintree
+"Last Name","성",module,PayPal_Braintree
 "Business Name","Business Name",module,PayPal_Braintree
 "Proof of Authorization","Proof of Authorization",module,PayPal_Braintree
 "Pay with ACH","Pay with ACH",module,PayPal_Braintree
@@ -8665,8 +8665,8 @@ Close,Close,lib,lib/web/mage/translate-inline.js
 "Please enter a valid email address (Ex: johndoe@domain.com).","Please enter a valid email address (Ex: johndoe@domain.com).",lib,lib/web/mage/validation.js
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Please enter 6 or more characters. Leading and trailing spaces will be ignored.",lib,lib/web/mage/validation.js
 "Please enter 7 or more characters, using both numeric and alphabetic.","Please enter 7 or more characters, using both numeric and alphabetic.",lib,lib/web/mage/validation.js
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.",lib,lib/web/mage/validation.js
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",lib,lib/web/mage/validation.js
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","해당 필드는 최소 %1이상이거나 같아야 합니다. 앞뒤 공백은 무시됩니다.",lib,lib/web/mage/validation.js
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","비밀번호는 소문자, 대문자, 숫자, 특수문자 중 최소 %1개의 조합으로 사용해야 합니다.",lib,lib/web/mage/validation.js
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Please enter a valid URL. Protocol is required (http://, https:// or ftp://).",lib,lib/web/mage/validation.js
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com.",lib,lib/web/mage/validation.js
 "Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Please enter a valid XML-identifier (Ex: something_1, block5, id-4).",lib,lib/web/mage/validation.js
@@ -8831,10 +8831,10 @@ Shipping,Shipping,module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Provided Zip/Postal Code seems to be invalid.",module,Magento_Customer
 " Example: "," Example: ",module,Magento_Customer
 "If you believe it is the right one you can ignore this notice.","If you believe it is the right one you can ignore this notice.",module,Magento_Customer
-Weak,Weak,module,Magento_Customer
-Medium,Medium,module,Magento_Customer
-Strong,Strong,module,Magento_Customer
-"Very Strong","Very Strong",module,Magento_Customer
+Weak,약함,module,Magento_Customer
+Medium,보통,module,Magento_Customer
+Strong,강함,module,Magento_Customer
+"Very Strong","매우 강함",module,Magento_Customer
 "Invalid date","Invalid date",module,Magento_Customer
 "The Date of Birth should not be greater than today.","The Date of Birth should not be greater than today.",module,Magento_Customer
 "Guest checkout is disabled.","Guest checkout is disabled.",module,Magento_Customer
@@ -9014,8 +9014,8 @@ Keyword,Keyword,module,Magento_Ui
 "Please enter a valid email address (Ex: johndoe@domain.com).","Please enter a valid email address (Ex: johndoe@domain.com).",module,Magento_Ui
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Please enter 6 or more characters. Leading and trailing spaces will be ignored.",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","Please enter 7 or more characters, using both numeric and alphabetic.",module,Magento_Ui
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.",module,Magento_Ui
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Ui
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","해당 필드는 최소 %1이상이거나 같아야 합니다. 앞뒤 공백은 무시됩니다.",module,Magento_Ui
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","비밀번호는 소문자, 대문자, 숫자, 특수문자 중 최소 %1개의 조합으로 사용해야 합니다. ",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Please enter a valid URL. Protocol is required (http://, https:// or ftp://).",module,Magento_Ui
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com.",module,Magento_Ui
 "Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Please enter a valid XML-identifier (Ex: something_1, block5, id-4).",module,Magento_Ui
@@ -12301,7 +12301,7 @@ Configure,Configure,module,Magento_Wishlist
 Delete,Delete,module,Magento_Wishlist
 "Product Details and Comment","Product Details and Comment",module,Magento_Wishlist
 "Add To Wishlist","Add To Wishlist",module,Magento_Wishlist
-"My Account","My Account",theme,frontend/Magento/blank
+"My Account","내 계정",theme,frontend/Magento/blank
 "Braintree Payments (by <a href=""https://www.gene.co.uk/braintree-payments/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce</a>)","Braintree Payments (by <a href=""https://www.gene.co.uk/braintree-payments/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce</a>)",module,PayPal_Braintree
 "Accept credit/debit cards and PayPal in your Magento store.<br />No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br />No setup or monthly fees and your customers never leave your store to complete the purchase.",module,PayPal_Braintree
 "Enable Card Payments","Enable Card Payments",module,PayPal_Braintree

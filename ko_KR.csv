@@ -254,7 +254,7 @@ Done.,Done.,module,Dotdigitalgroup_Email
 "Engagement Cloud","Engagement Cloud",module,Dotdigitalgroup_Email
 Wishlists,Wishlists,module,Dotdigitalgroup_Email
 "Wishlist Report","Wishlist Report",module,Dotdigitalgroup_Email
-"Newsletter Subscription","Newsletter Subscription",module,Dotdigitalgroup_Email
+"Newsletter Subscription","뉴스레터 구독",module,Dotdigitalgroup_Email
 "An error occurred while saving your subscription preferences.","An error occurred while saving your subscription preferences.",module,Dotdigitalgroup_Email
 "Your subscription preferences have been saved.","Your subscription preferences have been saved.",module,Dotdigitalgroup_Email
 "Something went wrong while saving your subscription.","Something went wrong while saving your subscription.",module,Dotdigitalgroup_Email
@@ -903,7 +903,7 @@ Magento,Magento,module,Magento_Backend
 "Magento Admin Panel","Magento Admin Panel",module,Magento_Backend
 "Account Setting","Account Setting",module,Magento_Backend
 "Customer View","Customer View",module,Magento_Backend
-"Sign Out","Sign Out",module,Magento_Backend
+"Sign Out","로그아웃",module,Magento_Backend
 "About the calendar","About the calendar",module,Magento_Backend
 Close,Close,module,Magento_Backend
 "Go Today","Go Today",module,Magento_Backend
@@ -1959,7 +1959,7 @@ Role,Role,module,Magento_Catalog
 "You added product %1 to the <a href=""%2"">comparison list</a>.","You added product %1 to the <a href=""%2"">comparison list</a>.",module,Magento_Catalog
 "Shop By","Shop By",module,Magento_Catalog
 "Shopping Options","Shopping Options",module,Magento_Catalog
-"Compare Products","Compare Products",module,Magento_Catalog
+"Compare Products","제품 비교",module,Magento_Catalog
 "Print This Page","Print This Page",module,Magento_Catalog
 "Remove Product","Remove Product",module,Magento_Catalog
 "Add to Cart","Add to Cart",module,Magento_Catalog
@@ -2600,13 +2600,13 @@ Unlimited,Unlimited,module,Magento_CustomerDownloadableGraphQl
 "Invalid value in Store column (store does not exists?)","Invalid value in Store column (store does not exists?)",module,Magento_CustomerImportExport
 "We can't find that email and website combination.","We can't find that email and website combination.",module,Magento_CustomerImportExport
 "Please enter a password with a valid length.","Please enter a password with a valid length.",module,Magento_CustomerImportExport
-"Sign Out","Sign Out",module,Magento_Customer
+"Sign Out","로그아웃",module,Magento_Customer
 "Sign In","로그인",module,Magento_Customer
 "You are subscribed to our newsletter.","You are subscribed to our newsletter.",module,Magento_Customer
 "You aren't subscribed to our newsletter.","You aren't subscribed to our newsletter.",module,Magento_Customer
 "You have not set a default shipping address.","You have not set a default shipping address.",module,Magento_Customer
 "You have not set a default billing address.","You have not set a default billing address.",module,Magento_Customer
-"Address Book","Address Book",module,Magento_Customer
+"Address Book","주소록",module,Magento_Customer
 "Edit Address","Edit Address",module,Magento_Customer
 "Add New Address","Add New Address",module,Magento_Customer
 "Customer not logged in","Customer not logged in",module,Magento_Customer
@@ -3141,7 +3141,7 @@ Unlimited,Unlimited,module,Magento_Downloadable
 "Upload type can not be determined.","Upload type can not be determined.",module,Magento_Downloadable
 "File can not be moved from temporary folder to the destination folder.","File can not be moved from temporary folder to the destination folder.",module,Magento_Downloadable
 "Something went wrong while getting the requested content.","Something went wrong while getting the requested content.",module,Magento_Downloadable
-"My Downloadable Products","My Downloadable Products",module,Magento_Downloadable
+"My Downloadable Products","내 다운로드 가능한 제품",module,Magento_Downloadable
 "We can't find the link you requested.","We can't find the link you requested.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Please sign in to download your product or purchase <a href=""%1"">%2</a>.",module,Magento_Downloadable
 "Please sign in to download your product.","Please sign in to download your product.",module,Magento_Downloadable
@@ -4570,7 +4570,7 @@ Subscribers,Subscribers,module,Magento_Newsletter
 "Create Newsletter Template","Create Newsletter Template",module,Magento_Newsletter
 "The newsletter template has been saved.","The newsletter template has been saved.",module,Magento_Newsletter
 "Something went wrong while saving this template.","Something went wrong while saving this template.",module,Magento_Newsletter
-"Newsletter Subscription","Newsletter Subscription",module,Magento_Newsletter
+"Newsletter Subscription","뉴스레터 구독",module,Magento_Newsletter
 "Something went wrong while saving your subscription.","Something went wrong while saving your subscription.",module,Magento_Newsletter
 "We have saved your subscription.","We have saved your subscription.",module,Magento_Newsletter
 "A confirmation request has been sent.","A confirmation request has been sent.",module,Magento_Newsletter
@@ -5638,7 +5638,7 @@ Reviews,Reviews,module,Magento_Review
 "You deleted the rating.","You deleted the rating.",module,Magento_Review
 Ratings,Ratings,module,Magento_Review
 "You saved the rating.","You saved the rating.",module,Magento_Review
-"My Product Reviews","My Product Reviews",module,Magento_Review
+"My Product Reviews","구매후기",module,Magento_Review
 "You submitted your review for moderation.","You submitted your review for moderation.",module,Magento_Review
 "We can't post your review right now.","We can't post your review right now.",module,Magento_Review
 "The storage key wasn't set. Add the storage key and try again.","The storage key wasn't set. Add the storage key and try again.",module,Magento_Review
@@ -5913,7 +5913,7 @@ Message,Message,module,Magento_Sales
 "* - Enter custom price excluding tax","* - Enter custom price excluding tax",module,Magento_Sales
 Configure,Configure,module,Magento_Sales
 "This product does not have any configurable options","This product does not have any configurable options",module,Magento_Sales
-"Newsletter Subscription","Newsletter Subscription",module,Magento_Sales
+"Newsletter Subscription","뉴스레터 구독",module,Magento_Sales
 "Please select products","Please select products",module,Magento_Sales
 "Add Selected Product(s) to Order","Add Selected Product(s) to Order",module,Magento_Sales
 ID,ID,module,Magento_Sales
@@ -6053,10 +6053,10 @@ Key,Key,module,Magento_Sales
 Value,Value,module,Magento_Sales
 "We found an invalid entity model.","We found an invalid entity model.",module,Magento_Sales
 "Order # %1","Order # %1",module,Magento_Sales
-"Back to My Orders","Back to My Orders",module,Magento_Sales
+"Back to My Orders","내 주문으로 돌아가기",module,Magento_Sales
 "View Another Order","View Another Order",module,Magento_Sales
 "About Your Refund","About Your Refund",module,Magento_Sales
-"My Orders","My Orders",module,Magento_Sales
+"My Orders","내 주문",module,Magento_Sales
 "You have placed no orders.","You have placed no orders.",module,Magento_Sales
 "Subscribe to Order Status","Subscribe to Order Status",module,Magento_Sales
 "About Your Invoice","About Your Invoice",module,Magento_Sales
@@ -6699,7 +6699,7 @@ Print,Print,module,Magento_Shipping
 "Delivered on:","Delivered on:",module,Magento_Shipping
 "About Your Shipment","About Your Shipment",module,Magento_Shipping
 "Order # %1","Order # %1",module,Magento_Shipping
-"Back to My Orders","Back to My Orders",module,Magento_Shipping
+"Back to My Orders","내 주문으로 돌아가기",module,Magento_Shipping
 "View Another Order","View Another Order",module,Magento_Shipping
 "The comment is missing. Enter and try again.","The comment is missing. Enter and try again.",module,Magento_Shipping
 "Cannot add new comment.","Cannot add new comment.",module,Magento_Shipping
@@ -7724,7 +7724,7 @@ Web,Web,module,Magento_Variable
 "Wrong request.","Wrong request.",module,Magento_Vault
 "Deletion failure. Please try again.","Deletion failure. Please try again.",module,Magento_Vault
 "Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"Stored Payment Methods","저장된 결제 방법",module,Magento_Vault
 "No payment tokens are available for the specified order payment.","No payment tokens are available for the specified order payment.",module,Magento_Vault
 "Card Number","Card Number",module,Magento_Vault
 "Expiration Date","Expiration Date",module,Magento_Vault
@@ -7846,7 +7846,7 @@ Page,Page,module,Magento_Widget
 "Missing key ""model"" in Wishlist value data","Missing key ""model"" in Wishlist value data",module,Magento_WishlistGraphQl
 "Wish List","Wish List",module,Magento_Wishlist
 "Wish List Sharing","Wish List Sharing",module,Magento_Wishlist
-"My Wish List","My Wish List",module,Magento_Wishlist
+"My Wish List","내 위시리스트",module,Magento_Wishlist
 "%1's Wish List","%1's Wish List",module,Magento_Wishlist
 "Page not found.","Page not found.",module,Magento_Wishlist
 "We can't specify a product.","We can't specify a product.",module,Magento_Wishlist
@@ -9401,7 +9401,7 @@ Debug,Debug,module,Dotdigitalgroup_Email
 "Reset Password","Reset Password",module,Dotdigitalgroup_Email
 "Wish List Sharing","Wish List Sharing",module,Dotdigitalgroup_Email
 "Forgot Admin Password","Forgot Admin Password",module,Dotdigitalgroup_Email
-Newsletter,Newsletter,module,Dotdigitalgroup_Email
+Newsletter,뉴스레터,module,Dotdigitalgroup_Email
 "Success Email Template","Success Email Template",module,Dotdigitalgroup_Email
 "Subscription Confirmation","Subscription Confirmation",module,Dotdigitalgroup_Email
 "Unsubscribe Success","Unsubscribe Success",module,Dotdigitalgroup_Email
